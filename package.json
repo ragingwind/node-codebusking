@@ -1,0 +1,23 @@
+{
+  "name": "node-codebusking",
+  "version": "1.0.0",
+  "description": "Return information about codebusking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebusking/node-codebusking.git"
+  },
+  "keywords": [
+    "node",
+    "codebusking"
+  ],
+  "author": "Jimmy Moon <ragingwind@gmail.com> (http://ragingwind.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codebusking/node-codebusking/issues"
+  },
+  "homepage": "https://github.com/codebusking/node-codebusking#readme"
+}
