@@ -1,5 +1,5 @@
 {
-  "name": "node-codebusking",
+  "name": "codebusking",
   "version": "1.0.0",
   "description": "Return information about codebusking",
   "main": "index.js",
