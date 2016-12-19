@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/codebusking/node-codebusking/issues"
   },
-  "homepage": "https://github.com/codebusking/node-codebusking#readme"
+  "homepage": "https://github.com/codebusking/node-codebusking#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
