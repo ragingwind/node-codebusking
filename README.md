@@ -1,1 +1,1 @@
-# node-codebusking ![](https://travis-ci.org/codebusking/node-codebusking/settings#)
+# node-codebusking ![](https://travis-ci.org/codebusking/node-codebusking.svg?branch=master) 
