@@ -6,6 +6,7 @@ test('test properties', t => {
 	t.is(codeBusking.lastName, 'Busking');
 	t.is(codeBusking.email, 'me@codebusking.com');
 	t.is(codeBusking.homepage, 'www.codebusking.com');
+	t.is(codeBusking.github, 'https://github.com/codebusking');
 });
 
 test('test methods', t => {
