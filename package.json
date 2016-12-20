@@ -4,7 +4,7 @@
   "description": "Return information about codebusking",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/codebusking/node-codebusking#readme",
   "dependencies": {
     "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0"
   }
 }
