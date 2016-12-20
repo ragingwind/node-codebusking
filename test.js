@@ -5,7 +5,7 @@ test('test properties', t => {
 	t.is(codeBusking.firstName, 'Code');
 	t.is(codeBusking.lastName, 'Busking');
 	t.is(codeBusking.email, 'me@codebusking.com');
-	t.is(codeBusking.homepage, 'temp.codebusking.com');
+	t.is(codeBusking.homepage, 'www.codebusking.com');
 });
 
 test('test methods', t => {
